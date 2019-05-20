@@ -36,9 +36,9 @@ let crearArchivo = (base, limite) => {
 
 let listarTabla = (base, limite) => {
 
-    console.log(colors.blue('\n****************************'));
+    console.log(colors.blue('\n*****************************'));
     console.log(colors.blue(`\tTabla del ${base}`));
-    console.log(colors.blue('****************************\n'));
+    console.log(colors.blue('*****************************\n'));
 
     for (let i = 1; i <= limite; i++) {
         console.log(`${ base } * ${ i } = ${ base * i }`);
