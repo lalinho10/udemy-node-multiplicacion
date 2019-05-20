@@ -2,11 +2,11 @@
 
 Este proyecto fue generado manualmente, utilizando NodeJS y Git.
 
-La aplicación muestra y/o crea las tablas de multiplicar de acuerdo a los parámetros introducidos po el usuario.
+La aplicación muestra y/o crea las tablas de multiplicar de acuerdo a los parámetros introducidos por el usuario.
 
 ## Instalación de librerías
 
-Ejecute `npm install` para instalar las librerías necesarias para ejecutar la aplicación
+Ejecute `npm install` para instalar las librerías necesarias para ejecutar la aplicación.
 
 ## Mostrar tabla de multiplicar
 
