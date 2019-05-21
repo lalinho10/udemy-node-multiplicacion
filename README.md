@@ -14,4 +14,4 @@ Ejecute `node app listar --base=n --limite=m`, donde `n` es el número base (mul
 
 ## Crear archivo de tabla de multiplicar
 
-Ejecute `node crear listar --base=n --limite=m`, donde `n` es el número base (multiplicando) de la tabla de multiplicar que se mostrará y `m` es el límite multiplicador.
+Ejecute `node app crear --base=n --limite=m`, donde `n` es el número base (multiplicando) de la tabla de multiplicar que se mostrará y `m` es el límite multiplicador.
